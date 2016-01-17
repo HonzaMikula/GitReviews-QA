@@ -14,5 +14,7 @@ For testing purposes of http://gitreview.com
 
 ### Webhooks
 If I changed something on GH, does it alsp change in GR.
+
 1) Issues, comments
+
 2) Assignee
